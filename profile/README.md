@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="../public/SFU.png" alt="Professor insights view" width="49.3%" style="border-radius: 12px;" />
-  <img src="../public/RateMyProf.png" alt="SFU scheduler view" width="49.3%" style="border-radius: 12px;" />
+  <img src="../public/RateMyProf.png" alt="SFU scheduler view" width="60%" style="border-radius: 12px;" />
+  <img src="../public/SFU.png" alt="Professor insights view" width="40%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">PickMyProf</h1>
