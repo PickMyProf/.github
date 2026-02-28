@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="../public/SFU.png" alt="Professor insights view" width="49.3%" style="border-radius: 12px;" />
-  <img src="../public/RateMyProf.png" alt="SFU scheduler view" width="49.3%" style="border-radius: 12px;" />
+  <img src="../public/PMPlogo.png" alt="PickMyProf logo" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">PickMyProf</h1>
@@ -18,6 +17,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Inspiration](#inspiration)
 - [Mission](#mission)
 - [The Problem](#the-problem)
 - [Our Approach](#our-approach)
@@ -46,6 +46,24 @@ Instead of forcing students to switch between timetable tools and scattered revi
 - **workload expectations**
 
 Our goal is simple: help students make smarter enrollment decisions with more confidence.
+
+---
+
+## Inspiration
+
+PickMyProf is inspired by two tools that many students already know and use:
+
+- **Rate My Professor** for giving students access to professor-based feedback and teaching insights
+- **SFU Scheduler / MySchedule** for helping students visualize and organize their course schedules
+
+Our goal is to bring the strengths of both experiences into one student-focused platform: a place where students can not only see **when** a course fits into their schedule, but also understand **how that section may actually feel to take**.
+
+<p align="center">
+  <img src="../public/SFU.png" alt="SFU Scheduler inspiration" width="49.3%" style="border-radius: 12px;" />
+  <img src="../public/RateMyProf.png" alt="Rate My Professor inspiration" width="49.3%" style="border-radius: 12px;" />
+</p>
+
+> PickMyProf is an independent student project and is not affiliated with or endorsed by SFU, SFU Scheduler, or Rate My Professor.
 
 ---
 
@@ -185,6 +203,7 @@ Built by the PickMyProf team:
 - **Khalid Karim**
 - **Yusuf Shalaby**
 - **Mohamed Refaai**
+
 ---
 
 ## Contact
