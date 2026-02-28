@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="../public/PMPlogo.png" alt="PickMyProf logo" width="100%" style="border-radius: 12px;" />
+  <img src="../public/PMPlogo.png" alt="PickMyProf logo" width="40%" style="border-radius: 12px;" />
 </p>
-
-<h1 align="center">PickMyProf</h1>
 
 <p align="center">
   Helping SFU students choose better courses with section-based professor insights.
