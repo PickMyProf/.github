@@ -57,8 +57,8 @@ PickMyProf is inspired by two tools that many students already know and use:
 Our goal is to bring the strengths of both experiences into one student-focused platform: a place where students can not only see **when** a course fits into their schedule, but also understand **how that section may actually feel to take**.
 
 <p align="center">
-  <img src="../public/SFU.png" alt="SFU Scheduler inspiration" width="49.3%" style="border-radius: 12px;" />
-  <img src="../public/RateMyProf.png" alt="Rate My Professor inspiration" width="49.3%" style="border-radius: 12px;" />
+  <img src="../public/SFU.png" alt="SFU Scheduler inspiration" width="40%" style="border-radius: 12px;" />
+  <img src="../public/RateMyProf.png" alt="Rate My Professor inspiration" width="59%" style="border-radius: 12px;" />
 </p>
 
 > PickMyProf is an independent student project and is not affiliated with or endorsed by SFU, SFU Scheduler, or Rate My Professor.
