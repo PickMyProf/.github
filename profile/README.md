@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PickMyProf">Main Repository</a>
+  <a href="https://github.com/PickMyProf/PickMyProf-SFU">Main Repository</a>
 </p>
 
 ---
